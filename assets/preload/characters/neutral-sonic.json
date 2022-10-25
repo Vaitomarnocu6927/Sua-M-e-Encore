@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NEUTRAL SONIC IDLE"
+		},
+		{
+			"offsets": [
+				27,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NEUTRAL SONIC LEFT"
+		},
+		{
+			"offsets": [
+				16,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NEUTRAL SONIC DOWN"
+		},
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NEUTRAL SONIC UP"
+		},
+		{
+			"offsets": [
+				-1,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NEUTRAL SONIC RIGHT"
+		},
+		{
+			"offsets": [
+				11,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transformation",
+			"indices": [],
+			"name": "SONIC TRANSFORMATION"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NEUTRAL_SONIC",
+	"position": [
+		170,
+		150
+	],
+	"healthicon": "neutral-sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		51,
+		255
+	],
+	"camera_position": [
+		0,
+		-147
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

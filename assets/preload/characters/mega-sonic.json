@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				248,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MEGA SONIC LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-83
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MEGA SONIC DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				129
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MEGA SONIC UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MEGA SONIC RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MEGA SONIC IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MEGA_SONIC",
+	"position": [
+		40,
+		-210
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		51,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 3.2,
+	"scale": 2
+}
