@@ -1,0 +1,129 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "greenHills",
+		"player1": "bf-bunny",
+		"player2": "mega-sonic",
+		"player3": null,
+		"events": [
+			[
+				23615.3846153846,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"bf"
+					]
+				]
+			],
+			[
+				73461.5384615385,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						"1"
+					]
+				]
+			],
+			[
+				73846.1538461538,
+				[
+					[
+						"blackbars",
+						"0.85",
+						"41"
+					]
+				]
+			],
+			[
+				98461.5384615383,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				110769.230769231,
+				[
+					[
+						"blackbars",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				122692.307692307,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						"1"
+					]
+				]
+			],
+			[
+				123076.923076923,
+				[
+					[
+						"blackbars",
+						"0.85",
+						"41"
+					]
+				]
+			],
+			[
+				170769.23076923,
+				[
+					[
+						"blackbars",
+						"0.85",
+						"41"
+					]
+				]
+			],
+			[
+				171923.076923076,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				172307.692307692,
+				[
+					[
+						"blackbars",
+						"0.85",
+						"41"
+					]
+				]
+			],
+			[
+				172307.692307692,
+				[
+					[
+						"blackbars",
+						"1",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 156,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Red Rings"
+	}
+}
