@@ -1,0 +1,359 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "greenHills",
+		"player1": "bf-bunny",
+		"player2": "neutral-sonic",
+		"player3": null,
+		"events": [
+			[
+				42666.6666666667,
+				[
+					[
+						"Play Animation",
+						"transformation",
+						"neutral-sonic"
+					]
+				]
+			],
+			[
+				44215.0537634409,
+				[
+					[
+						"shakey arrows",
+						"normal",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"1"
+					]
+				]
+			],
+			[
+				45763.4408602151,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"1"
+					]
+				]
+			],
+			[
+				45763.4408602151,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic"
+					]
+				]
+			],
+			[
+				58150.5376344086,
+				[
+					[
+						"Flash Black",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70150.5376344087,
+				[
+					[
+						"Flash Black",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81695.9921798632,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				81786.9012707723,
+				[
+					[
+						"Flash Black",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93081.0189178311,
+				[
+					[
+						"Play Animation",
+						"dialogue",
+						"sonic"
+					]
+				]
+			],
+			[
+				93252.4474892597,
+				[
+					[
+						"blackbars",
+						"0.8",
+						"45"
+					],
+					[
+						"text",
+						"I'm gonna GETCHA!..",
+						"6"
+					]
+				]
+			],
+			[
+				96338.1617749739,
+				[
+					[
+						"text",
+						"I AM...",
+						"4"
+					]
+				]
+			],
+			[
+				96423.8760606882,
+				[
+					[
+						"Camera Follow Pos",
+						"1430",
+						"1350"
+					]
+				]
+			],
+			[
+				97966.7332035454,
+				[
+					[
+						"Camera Follow Pos",
+						"1650",
+						"1350"
+					]
+				]
+			],
+			[
+				98052.4474892596,
+				[
+					[
+						"text",
+						"GOD!!!",
+						"4"
+					]
+				]
+			],
+			[
+				98566.7332035454,
+				[
+					[
+						"shakey arrows",
+						"little",
+						""
+					]
+				]
+			],
+			[
+				98566.7332035454,
+				[
+					[
+						"shakey arrows",
+						"little",
+						""
+					]
+				]
+			],
+			[
+				99852.4474892596,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				99938.1617749739,
+				[
+					[
+						"text",
+						"*Maniacal Laughter*",
+						"4"
+					]
+				]
+			],
+			[
+				99938.1617749739,
+				[
+					[
+						"Camera Follow Pos",
+						"1400",
+						"1350"
+					]
+				]
+			],
+			[
+				100109.590346402,
+				[
+					[
+						"Camera Follow Pos",
+						"1400",
+						"1350"
+					]
+				]
+			],
+			[
+				100452.44748926,
+				[
+					[
+						"Camera Follow Pos",
+						"1400",
+						"1260"
+					]
+				]
+			],
+			[
+				100966.733203545,
+				[
+					[
+						"blackbars",
+						"1.1",
+						"0"
+					]
+				]
+			],
+			[
+				102166.733203545,
+				[
+					[
+						"Camera Follow Pos",
+						"1400",
+						"1190"
+					]
+				]
+			],
+			[
+				102766.733203545,
+				[
+					[
+						"Camera Follow Pos",
+						"1400",
+						"1120"
+					]
+				]
+			],
+			[
+				102766.733203545,
+				[
+					[
+						"Camera Follow Pos",
+						"1400",
+						"1030"
+					]
+				]
+			],
+			[
+				103366.733203545,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104052.44748926,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mega-sonic"
+					]
+				]
+			],
+			[
+				125302.44748926,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"1"
+					]
+				]
+			],
+			[
+				125385.780822593,
+				[
+					[
+						"Flash Black",
+						"",
+						""
+					]
+				]
+			],
+			[
+				142079.898469652,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"1"
+					]
+				]
+			],
+			[
+				142165.612755366,
+				[
+					[
+						"Flash Black",
+						"",
+						""
+					]
+				]
+			],
+			[
+				163498.946088699,
+				[
+					[
+						"Change Scroll Speed",
+						"1.25",
+						"1"
+					]
+				]
+			],
+			[
+				174123.946088699,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 135,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Too Slow"
+	}
+}
