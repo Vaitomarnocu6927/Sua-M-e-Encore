@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Too Slow", "neutral-sonic", [0, 51, 255]],
+		["Red Rings", "sonic", [0, 51, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "Week Sonic",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
