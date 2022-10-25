@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NEUTRAL SONIC.png">
+	
+	
+	<SubTexture name="NEUTRAL SONIC DOWN0000" x="0" y="0" width="198" height="315" frameX="-1" frameY="-3" frameWidth="200" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC DOWN0001" x="0" y="0" width="198" height="315" frameX="-1" frameY="-3" frameWidth="200" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC DOWN0002" x="198" y="0" width="200" height="317" frameX="0" frameY="-1" frameWidth="200" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC DOWN0003" x="198" y="0" width="200" height="317" frameX="0" frameY="-1" frameWidth="200" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC DOWN0004" x="398" y="0" width="200" height="318" frameX="-1" frameY="0" frameWidth="200" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC DOWN0005" x="598" y="0" width="200" height="318" frameX="-1" frameY="0" frameWidth="200" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC DOWN0006" x="598" y="0" width="200" height="318" frameX="-1" frameY="0" frameWidth="200" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC DOWN0007" x="598" y="0" width="200" height="318" frameX="-1" frameY="0" frameWidth="200" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC IDLE0000" x="798" y="0" width="203" height="318" frameX="-1" frameY="-3" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0001" x="798" y="0" width="203" height="318" frameX="-1" frameY="-3" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0002" x="1001" y="0" width="204" height="318" frameX="0" frameY="-3" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0003" x="1001" y="0" width="204" height="318" frameX="0" frameY="-3" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0004" x="1205" y="0" width="204" height="320" frameX="-1" frameY="-2" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0005" x="1205" y="0" width="204" height="320" frameX="-1" frameY="-2" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0006" x="1409" y="0" width="204" height="321" frameX="-1" frameY="-1" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0007" x="1409" y="0" width="204" height="321" frameX="-1" frameY="-1" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0008" x="1613" y="0" width="203" height="321" frameX="-1" frameY="0" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0009" x="1613" y="0" width="203" height="321" frameX="-1" frameY="0" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0010" x="1816" y="0" width="203" height="321" frameX="-1" frameY="0" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0011" x="1816" y="0" width="203" height="321" frameX="-1" frameY="0" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0012" x="1816" y="0" width="203" height="321" frameX="-1" frameY="0" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0013" x="1816" y="0" width="203" height="321" frameX="-1" frameY="0" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC IDLE0014" x="1816" y="0" width="203" height="321" frameX="-1" frameY="0" frameWidth="204" frameHeight="321" />
+	<SubTexture name="NEUTRAL SONIC LEFT0000" x="0" y="321" width="194" height="317" frameX="0" frameY="-1" frameWidth="198" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC LEFT0001" x="0" y="321" width="194" height="317" frameX="0" frameY="-1" frameWidth="198" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC LEFT0002" x="194" y="321" width="194" height="318" frameX="-3" frameY="0" frameWidth="198" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC LEFT0003" x="194" y="321" width="194" height="318" frameX="-3" frameY="0" frameWidth="198" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC LEFT0004" x="388" y="321" width="194" height="318" frameX="-4" frameY="0" frameWidth="198" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC LEFT0005" x="583" y="321" width="194" height="318" frameX="-4" frameY="0" frameWidth="198" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC LEFT0006" x="583" y="321" width="194" height="318" frameX="-4" frameY="0" frameWidth="198" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC LEFT0007" x="583" y="321" width="194" height="318" frameX="-4" frameY="0" frameWidth="198" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC LEFT0008" x="583" y="321" width="194" height="318" frameX="-4" frameY="0" frameWidth="198" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC LEFT0009" x="583" y="321" width="194" height="318" frameX="-4" frameY="0" frameWidth="198" frameHeight="318" />
+	<SubTexture name="NEUTRAL SONIC RIGHT0000" x="777" y="321" width="217" height="327" frameX="-3" frameY="0" frameWidth="220" frameHeight="327" />
+	<SubTexture name="NEUTRAL SONIC RIGHT0001" x="777" y="321" width="217" height="327" frameX="-3" frameY="0" frameWidth="220" frameHeight="327" />
+	<SubTexture name="NEUTRAL SONIC RIGHT0002" x="994" y="321" width="214" height="324" frameX="-1" frameY="-3" frameWidth="220" frameHeight="327" />
+	<SubTexture name="NEUTRAL SONIC RIGHT0003" x="994" y="321" width="214" height="324" frameX="-1" frameY="-3" frameWidth="220" frameHeight="327" />
+	<SubTexture name="NEUTRAL SONIC RIGHT0004" x="1209" y="321" width="214" height="324" frameX="0" frameY="-3" frameWidth="220" frameHeight="327" />
+	<SubTexture name="NEUTRAL SONIC RIGHT0005" x="1423" y="321" width="214" height="324" frameX="0" frameY="-3" frameWidth="220" frameHeight="327" />
+	<SubTexture name="NEUTRAL SONIC RIGHT0006" x="1423" y="321" width="214" height="324" frameX="0" frameY="-3" frameWidth="220" frameHeight="327" />
+	<SubTexture name="NEUTRAL SONIC RIGHT0007" x="1423" y="321" width="214" height="324" frameX="0" frameY="-3" frameWidth="220" frameHeight="327" />
+	<SubTexture name="NEUTRAL SONIC RIGHT0008" x="1423" y="321" width="214" height="324" frameX="0" frameY="-3" frameWidth="220" frameHeight="327" />
+	<SubTexture name="NEUTRAL SONIC UP0000" x="1638" y="321" width="205" height="324" frameX="-1" frameY="0" frameWidth="206" frameHeight="324" />
+	<SubTexture name="NEUTRAL SONIC UP0001" x="1638" y="321" width="205" height="324" frameX="-1" frameY="0" frameWidth="206" frameHeight="324" />
+	<SubTexture name="NEUTRAL SONIC UP0002" x="1843" y="321" width="204" height="321" frameX="0" frameY="-2" frameWidth="206" frameHeight="324" />
+	<SubTexture name="NEUTRAL SONIC UP0003" x="1843" y="321" width="204" height="321" frameX="0" frameY="-2" frameWidth="206" frameHeight="324" />
+	<SubTexture name="NEUTRAL SONIC UP0004" x="0" y="648" width="204" height="321" frameX="0" frameY="-3" frameWidth="206" frameHeight="324" />
+	<SubTexture name="NEUTRAL SONIC UP0005" x="204" y="648" width="204" height="321" frameX="0" frameY="-3" frameWidth="206" frameHeight="324" />
+	<SubTexture name="NEUTRAL SONIC UP0006" x="204" y="648" width="204" height="321" frameX="0" frameY="-3" frameWidth="206" frameHeight="324" />
+	<SubTexture name="NEUTRAL SONIC UP0007" x="204" y="648" width="204" height="321" frameX="0" frameY="-3" frameWidth="206" frameHeight="324" />
+	<SubTexture name="NEUTRAL SONIC UP0008" x="204" y="648" width="204" height="321" frameX="0" frameY="-3" frameWidth="206" frameHeight="324" />
+	<SubTexture name="NEUTRAL SONIC UP0009" x="204" y="648" width="204" height="321" frameX="0" frameY="-3" frameWidth="206" frameHeight="324" />
+	<SubTexture name="NEUTRAL SONIC UP0010" x="204" y="648" width="204" height="321" frameX="0" frameY="-3" frameWidth="206" frameHeight="324" />
+	<SubTexture name="NEUTRAL SONIC UP0011" x="204" y="648" width="204" height="321" frameX="0" frameY="-3" frameWidth="206" frameHeight="324" />
+	<SubTexture name="SONIC TRANSFORMATION0000" x="409" y="648" width="199" height="318" frameX="0" frameY="-5" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0001" x="608" y="648" width="200" height="320" frameX="-2" frameY="-4" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0002" x="809" y="648" width="217" height="322" frameX="-7" frameY="-2" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0003" x="809" y="648" width="217" height="322" frameX="-7" frameY="-2" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0004" x="1026" y="648" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0005" x="1247" y="648" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0006" x="1468" y="648" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0007" x="1690" y="648" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0008" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0009" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0010" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0011" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0012" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0013" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0014" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0015" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0016" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0017" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0018" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0019" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0020" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0021" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0022" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0023" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0024" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0025" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0026" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0027" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0028" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0029" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0030" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0031" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0032" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0033" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0034" x="0" y="972" width="221" height="323" frameX="-7" frameY="0" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0035" x="221" y="972" width="212" height="321" frameX="-17" frameY="-2" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0036" x="433" y="972" width="227" height="293" frameX="-16" frameY="-34" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0037" x="661" y="972" width="248" height="284" frameX="-19" frameY="-43" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0038" x="661" y="972" width="248" height="284" frameX="-19" frameY="-43" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0039" x="909" y="972" width="245" height="289" frameX="-18" frameY="-41" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0040" x="909" y="972" width="245" height="289" frameX="-18" frameY="-41" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0041" x="1154" y="972" width="252" height="284" frameX="-14" frameY="-46" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0042" x="1154" y="972" width="252" height="284" frameX="-14" frameY="-46" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0043" x="1406" y="972" width="255" height="282" frameX="-9" frameY="-48" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0044" x="1406" y="972" width="255" height="282" frameX="-9" frameY="-48" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0045" x="1661" y="972" width="233" height="280" frameX="-21" frameY="-50" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0046" x="0" y="1295" width="248" height="275" frameX="-16" frameY="-55" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0047" x="248" y="1295" width="235" height="275" frameX="-26" frameY="-55" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0048" x="483" y="1295" width="235" height="279" frameX="-26" frameY="-51" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0049" x="719" y="1295" width="243" height="282" frameX="-20" frameY="-48" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0050" x="719" y="1295" width="243" height="282" frameX="-20" frameY="-48" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0051" x="962" y="1295" width="253" height="284" frameX="-15" frameY="-46" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0052" x="962" y="1295" width="253" height="284" frameX="-15" frameY="-46" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0053" x="1216" y="1295" width="256" height="282" frameX="-10" frameY="-48" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0054" x="1216" y="1295" width="256" height="282" frameX="-10" frameY="-48" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0055" x="1472" y="1295" width="246" height="277" frameX="-20" frameY="-53" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0056" x="1472" y="1295" width="246" height="277" frameX="-20" frameY="-53" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0057" x="1718" y="1295" width="241" height="282" frameX="-24" frameY="-48" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0058" x="1718" y="1295" width="241" height="282" frameX="-24" frameY="-48" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0059" x="1718" y="1295" width="241" height="282" frameX="-24" frameY="-48" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0060" x="0" y="1579" width="248" height="278" frameX="-18" frameY="-52" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0061" x="0" y="1579" width="248" height="278" frameX="-18" frameY="-52" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0062" x="0" y="1579" width="248" height="278" frameX="-18" frameY="-52" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0063" x="248" y="1579" width="244" height="284" frameX="-19" frameY="-46" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0064" x="248" y="1579" width="244" height="284" frameX="-19" frameY="-46" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0065" x="492" y="1579" width="243" height="285" frameX="-19" frameY="-45" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0066" x="492" y="1579" width="243" height="285" frameX="-19" frameY="-45" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0067" x="736" y="1579" width="243" height="286" frameX="-19" frameY="-44" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0068" x="736" y="1579" width="243" height="286" frameX="-19" frameY="-44" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0069" x="736" y="1579" width="243" height="286" frameX="-19" frameY="-44" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0070" x="736" y="1579" width="243" height="286" frameX="-19" frameY="-44" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0071" x="736" y="1579" width="243" height="286" frameX="-19" frameY="-44" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0072" x="736" y="1579" width="243" height="286" frameX="-19" frameY="-44" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0073" x="736" y="1579" width="243" height="286" frameX="-19" frameY="-44" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0074" x="736" y="1579" width="243" height="286" frameX="-19" frameY="-44" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0075" x="736" y="1579" width="243" height="286" frameX="-19" frameY="-44" frameWidth="268" frameHeight="330" />
+	<SubTexture name="SONIC TRANSFORMATION0076" x="736" y="1579" width="243" height="286" frameX="-19" frameY="-44" frameWidth="268" frameHeight="330" />
+</TextureAtlas>
